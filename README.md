@@ -1,4 +1,4 @@
-# 🍫 anime-wp — Arch KDE Plasma Rice Kit
+# 🍫 Anime-wp — Arch KDE Plasma Rice Kit
 
 > A minimal, dark-themed KDE Plasma rice with anime/manhwa aesthetics, custom bar, and 4K wallpapers.
 
