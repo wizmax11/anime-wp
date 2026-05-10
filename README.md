@@ -4,12 +4,12 @@
 
 ---
 
-## 📸 Previews
+## Previews
 
-### Desktop
+### Desktop 一
 ![Desktop Preview](ArchRice/desktop.png)
 
-### Better Bar
+### Desktop 二
 ![Better Bar Preview](ArchRice/betterbar.png)
 
 ---
